@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xBeatrice
 - 👀 I’m interested in bringing my ideas to life!
-- 🌱 I’m currently learning React.js :D
+- 🌱 I’m currently learning React
 
 
 
