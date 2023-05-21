@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @xBeatrice
-- 👀 I’m interested in bringing my ideas to life!
-- 🌱 I’m currently learning React
-
+Exploring the vast possibilities of technology. Embracing the art of coding and continuous learning.
 
 
 <!---
