@@ -4,7 +4,7 @@
 I'm Beatrice, a passionate developer eager to contribute to the world of technology. Here on my GitHub profile, I share my projects and experiences, striving to improve my skills and make a positive impact.
 
 ## 🌟 Projects I've Worked On
-Explore some of the projects I've built and contributed to:
+Explore some of the projects I've built:
 
 - [Neighboards](https://github.com/xBeatrice/neighboards): A web application that offers an intuitive interface for efficient task and user stories management. Users can effortlessly organize and prioritize their workload, thanks to capacity tracking and filtering features.
 - [InvoiceMasters](https://github.com/xBeatrice/InvoiceMasters): A web application that simplifies the invoicing process, featuring customizable templates, efficient data management, and secure authentication. This user-friendly solution aims to optimize the workflow and save time. 
