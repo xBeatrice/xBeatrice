@@ -6,17 +6,21 @@ I'm Beatrice, a passionate developer eager to contribute to the world of technol
 ## 🌟 Projects I've Worked On
 Explore some of the projects I've built:
 
-- [Neighboards](https://github.com/xBeatrice/neighboards): A web application that offers an intuitive interface for efficient task and user stories management. Users can effortlessly organize and prioritize their workload, thanks to capacity tracking and filtering features.
-- [InvoiceMasters](https://github.com/xBeatrice/InvoiceMasters): A web application that simplifies the invoicing process, featuring customizable templates, efficient data management, and secure authentication. This user-friendly solution aims to optimize the workflow and save time. 
+- [Neighboards](https://github.com/xBeatrice/neighboards): A web application built with React and Material-UI for the frontend that offers an intuitive interface for efficient task and user stories management. Users can effortlessly organize and prioritize their workload, thanks to capacity tracking and filtering features. Backend also available at [neigboards-backend](https://github.com/xBeatrice/neighboards-backend)
+- [InvoiceMasters](https://github.com/xBeatrice/InvoiceMasters): A web application that simplifies the invoicing process, featuring customizable templates, efficient data management, and secure authentication. This user-friendly solution aims to optimize the workflow and save time through document automatization. Currently remaking it in React for better user experience and code maintainability in another public repo of mine 
+- [Logic Estate](https://github.com/xBeatrice/LogicEstate-Frontend): A comprehensive real estate platform built with React and Material-UI for the frontend. This application provides users with the ability to explore and filter properties, view statistics through interactive charts, and utilize Google Maps integration to visualize property locations. Backend also available at [LogicEstate-Backend](https://github.com/xBeatrice/LogicEstate-Backend)
+  
 
 
 ## 💼 Skills
+
 I'm proficient in the following technologies and tools:
 
-- Front-end development: 💻 JavaScript, ⚛️ React, 🌐 HTML, 🎨 CSS
-- Back-end development: C#️⃣ (.NET)
-- Database: 🔥 Firebase, 🗃️ MySQL
+- Front-end development: ⚛️ React, 💻 JavaScript, , 🌐 HTML, 🎨 CSS, 🖌️ Material-UI
+- Back-end development: C#️⃣ (.NET Framework MVC)
+- Database: 🗃️ Azure SQL Database, 🏢 Entity Framework, 🔥 Firebase
 - Version control: 🗂️ Git
+
 
 ## 🤝 Let's Connect
 I'm always open to collaboration and new opportunities. You can reach me through:
