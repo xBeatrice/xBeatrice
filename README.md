@@ -1,4 +1,4 @@
-# 👋 Welcome to Beatrice's GitHub Profile! 🌱
+# Welcome to Beatrice's GitHub Profile! 🌱
 
 ## Hello, fellow developers! 🚀
 I'm Beatrice, a passionate developer eager to contribute to the world of technology. Here on my GitHub profile, I share my projects and experiences, striving to improve my skills and make a positive impact.
